@@ -2,9 +2,9 @@
 Top 50 Programming Blogs &amp; Websites Every Programmer Must Follow
 
 1. [The Crazy Programmer](https://www.thecrazyprogrammer.com/)
-2. [SitePoint](sitepoint.com)
-3. [ Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](raywenderlich.com )
-4. [Java, SQL and jOOQ.](blog.jooq.org )
+2. [SitePoint](https://www.sitepoint.com/)
+3. [ Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](https://www.raywenderlich.com/)
+4. [Java, SQL and jOOQ.](www.blog.jooq.org )
 5. [CSS-Tricks](css-tricks.com )
 6. [Scott Hanselman's Blog](hanselman.com/blog)
 7. [Coding Alpha](codingalpha.com)
